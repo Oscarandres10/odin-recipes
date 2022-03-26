@@ -1,2 +1,3 @@
-The project is learning all the HTML knowledge acquired so far.
-We are going to build a basic recipe website.
+Added 3 Recipes to the website
+
+I added 3 recipes to the website, each with its own html file, and then added them in a list format the the main page (index.html).
